@@ -14,14 +14,14 @@ This project is part of my **FreeCodeCamp learning journey**.
 ---
 
 ## 🖼 Screenshot
-![Penguin Waving Hand Screenshot](penguinphoto.png)(https://sadiapuspita.github.io/penguin-waving-hand/)
+![Penguin Waving Hand Screenshot](penguinphoto.png)https://sadiapuspita.github.io/penguin-waving-hand/
 
 
 ---
 
 ## 🌐 Live Demo
 View the project live here:  
-(https://sadiapuspita.github.io/penguin-waving-hand/)
+https://sadiapuspita.github.io/penguin-waving-hand/
 
 ---
 
